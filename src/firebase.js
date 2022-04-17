@@ -6,13 +6,7 @@ import { getStorage } from "firebase/storage";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB7BXsFTRET1dWCMT9Cot79gY_iOBJotIw",
-  authDomain: "crud-firebase-prueba-d1b70.firebaseapp.com",
-  databaseURL: "https://crud-firebase-prueba-d1b70-default-rtdb.firebaseio.com",
-  projectId: "crud-firebase-prueba-d1b70",
-  storageBucket: "crud-firebase-prueba-d1b70.appspot.com",
-  messagingSenderId: "18762588822",
-  appId: "1:18762588822:web:d4d95dea7e8e8c33f798b7"
+  //Write Your firebase token here
 };
 
 // Initialize Firebase
