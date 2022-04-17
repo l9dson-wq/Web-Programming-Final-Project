@@ -1,4 +1,6 @@
 ## Login, Share post React app
+### if you only want to try the app can go to this link: 
+https://react-app-post.vercel.app/
 
 This is an app created with:
 
