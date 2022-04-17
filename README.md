@@ -13,6 +13,8 @@ if you are in linux and your're using another package manager, for  example yarn
 
 ` yarn install `, IDK if you can use just ` yarn i `, look that in google for yourself.
 
+***
+
 ## Versions I used
 
 | Names         | Version       | 
@@ -23,15 +25,13 @@ if you are in linux and your're using another package manager, for  example yarn
 
 if you're using linux and don't know how to update npm, can take a look in this fantastic repo https://github.com/nvm-sh/nvm  <---- ** I always install NodeJS and Npm with this repo guide ** and never had problems.
 
+***
+
 ## Some captures of the project
 ..* Principal page.
 ![image](https://user-images.githubusercontent.com/69158247/163722043-e34f0c68-12d3-4de5-89af-43e0ba34bed9.png)
 
-..* Sign in page.
-![image](https://user-images.githubusercontent.com/69158247/163722088-30bfda2d-c690-4be3-b03a-e043cd812f16.png)
-
-..* Sign Up page.
-![image](https://user-images.githubusercontent.com/69158247/163722116-2ef7cf03-6201-4924-b1d3-bb0cc555b355.png)
+***
 
 ### Tailwind CSS
 i'ts sure you don't will have problems with this but if for some reasons you have problems with this take a look in the Tailwind doc: https://tailwindcss.com/docs/guides/create-react-app
