@@ -9,7 +9,7 @@ This is an app created with:
 
 ` npm i ` or ` npm install `
 
-if you are in linux and your're using another package manager, for  example yarn, you need to use the following command in the same folder of my repo:
+* if you are in linux and your're using another package manager, for  example yarn, you need to use the following command in the same folder of my repo:
 
 ` yarn install `, IDK if you can use just ` yarn i `, look that in google for yourself.
 
@@ -23,7 +23,7 @@ if you are in linux and your're using another package manager, for  example yarn
 | Node JS       | 17.9.0        |
 | Firebase      | 9             |
 
-if you're using linux and don't know how to update npm, can take a look in this fantastic repo https://github.com/nvm-sh/nvm  <---- ** I always install NodeJS and Npm with this repo guide ** and never had problems.
+* if you're using linux and don't know how to update npm, can take a look in this fantastic repo https://github.com/nvm-sh/nvm  <---- ** I always install NodeJS and Npm with this repo guide ** and never had problems.
 
 ***
 
@@ -34,5 +34,5 @@ if you're using linux and don't know how to update npm, can take a look in this 
 ***
 
 ### Tailwind CSS
-i'ts sure you don't will have problems with this but if for some reasons you have problems with this take a look in the Tailwind doc: https://tailwindcss.com/docs/guides/create-react-app
+* i'ts sure you don't will have problems with this but if for some reasons you have problems with this take a look in the Tailwind doc: https://tailwindcss.com/docs/guides/create-react-app
 
