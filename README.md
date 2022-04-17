@@ -5,7 +5,7 @@ This is an app created with:
  Fronted --> **React JS, Tawilwinds CSS**.
  Backend --> **Firebase**.
  
-..* When we upload a React project to GitHub, git doesn't load the node modules folder, so when you download the repository you have to run the following command inside the folder of my repo: 
+* When we upload a React project to GitHub, git doesn't load the node modules folder, so when you download the repository you have to run the following command inside the folder of my repo: 
 
 ` npm i ` or ` npm install `
 
@@ -28,7 +28,7 @@ if you're using linux and don't know how to update npm, can take a look in this 
 ***
 
 ## Some captures of the project
-..* Principal page.
+* Principal page.
 ![image](https://user-images.githubusercontent.com/69158247/163722043-e34f0c68-12d3-4de5-89af-43e0ba34bed9.png)
 
 ***
