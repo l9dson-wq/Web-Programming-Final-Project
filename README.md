@@ -39,7 +39,7 @@ https://user-images.githubusercontent.com/69158247/163726567-80c38a29-55c7-4f5e-
 | ------:| -----------:|
 | Firebase config file   | File location --> firebase.js |
 
-----> those are important:
+# those are important: its has to be `if true` an both cases, firestore and storage 
 ![image](https://user-images.githubusercontent.com/69158247/163728799-eb318d91-31ee-40c6-9889-57fe7f54a0cb.png)
 
 ![image](https://user-images.githubusercontent.com/69158247/163728816-bcdb1057-e3ca-4d3d-bcc5-5ebd1ef71a3a.png)
