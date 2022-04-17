@@ -27,6 +27,17 @@ This is an app created with:
 
 ***
 
+# Be carefull, first you need to initialize your own firebase and firebase tokens, Here will be all that you need to do step by step.
+
+1. Go to https://firebase.google.com/ ( if you're logged in to your google account probably you don't need to sign up )
+
+https://user-images.githubusercontent.com/69158247/163726567-80c38a29-55c7-4f5e-87b6-7062f47ca4d6.mp4
+
+![image](https://user-images.githubusercontent.com/69158247/163726635-6d256790-8521-431c-9021-813bc61a7ccf.png)
+
+
+***
+
 ## Some captures of the project
 * Principal page.
 ![image](https://user-images.githubusercontent.com/69158247/163722043-e34f0c68-12d3-4de5-89af-43e0ba34bed9.png)
@@ -35,6 +46,4 @@ This is an app created with:
 
 ### Tailwind CSS
 * i'ts sure you don't will have problems with this but if for some reasons you have problems with this take a look in the Tailwind doc: https://tailwindcss.com/docs/guides/create-react-app
-
-![image](https://user-images.githubusercontent.com/69158247/163725542-59241b7d-83cd-4553-9066-a9c449e3500c.png)
 
