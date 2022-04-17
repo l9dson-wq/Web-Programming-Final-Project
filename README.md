@@ -56,5 +56,5 @@ https://user-images.githubusercontent.com/69158247/163726567-80c38a29-55c7-4f5e-
 ***
 
 ### Tailwind CSS
-* i'ts sure you don't will have problems with this but if for some reasons you have problems with this take a look in the Tailwind doc: https://tailwindcss.com/docs/guides/create-react-app
+* it's sure you don't will have problems with this but if for some reasons you have problems with this take a look in the Tailwind doc: https://tailwindcss.com/docs/guides/create-react-app
 
