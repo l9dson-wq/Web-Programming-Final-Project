@@ -36,4 +36,5 @@ This is an app created with:
 ### Tailwind CSS
 * i'ts sure you don't will have problems with this but if for some reasons you have problems with this take a look in the Tailwind doc: https://tailwindcss.com/docs/guides/create-react-app
 
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+![image](https://user-images.githubusercontent.com/69158247/163725542-59241b7d-83cd-4553-9066-a9c449e3500c.png)
+
