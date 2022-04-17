@@ -35,6 +35,9 @@ https://user-images.githubusercontent.com/69158247/163726567-80c38a29-55c7-4f5e-
 
 ![image](https://user-images.githubusercontent.com/69158247/163726635-6d256790-8521-431c-9021-813bc61a7ccf.png)
 
+| Option | Description |
+| ------:| -----------:|
+| Firebase config file   | File location --> firebase.js |
 
 ***
 
