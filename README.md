@@ -2,8 +2,8 @@
 
 This is an app created with:
 
- Fronted --> **React JS, Tawilwinds CSS**.
- Backend --> **Firebase**.
+ * Fronted --> **React JS, Tailwinds CSS**.
+ * Backend --> **Firebase**.
  
 * When we upload a React project to GitHub, git doesn't load the node modules folder, so when you download the repository you have to run the following command inside the folder of my repo: 
 
